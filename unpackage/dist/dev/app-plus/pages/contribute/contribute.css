@@ -1,0 +1,21 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container25518[data-v-43f66588] {
+  padding-left: 0px;
+  padding-right: 0px;
+}

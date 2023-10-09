@@ -1,0 +1,229 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.search-clz[data-v-1cf27b2a] {
+  flex-shrink: 0;
+  height: 6vh !important;
+}
+.flex-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.image-clz[data-v-1cf27b2a] {
+  flex-shrink: 0;
+  height: 3.125rem !important;
+}
+.flex1-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  width: calc(70.8333333333% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text-clz[data-v-1cf27b2a] {
+  font-weight: bold;
+}
+.text1-clz[data-v-1cf27b2a] {
+  font-size: 0.625rem !important;
+}
+.text2-clz[data-v-1cf27b2a] {
+  font-weight: bold;
+}
+.text3-clz[data-v-1cf27b2a] {
+  font-size: 0.625rem !important;
+}
+.flex3-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.image1-clz[data-v-1cf27b2a] {
+  flex-shrink: 0;
+  height: 3.125rem !important;
+}
+.flex4-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  width: calc(70.8333333333% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text4-clz[data-v-1cf27b2a] {
+  font-weight: bold;
+}
+.text5-clz[data-v-1cf27b2a] {
+  font-size: 0.625rem !important;
+}
+.text6-clz[data-v-1cf27b2a] {
+  font-weight: bold;
+}
+.text7-clz[data-v-1cf27b2a] {
+  font-size: 0.625rem !important;
+}
+.text8-clz[data-v-1cf27b2a] {
+  background-color: #db5f54;
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(12.5% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.1875rem !important;
+  padding-bottom: 0.25rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  text-align: center;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text9-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  color: #db5f54;
+  text-decoration: underline;
+  padding-left: 0;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.0625rem !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex8-clz[data-v-1cf27b2a] {
+  padding-top: 0.3125rem;
+  padding-left: 0.875rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text11-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.text10-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.text12-clz[data-v-1cf27b2a] {
+  background-color: #db5f54;
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(12.5% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.1875rem !important;
+  padding-bottom: 0.25rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  text-align: center;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text13-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  color: #db5f54;
+  text-decoration: underline;
+  padding-left: 0;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.0625rem !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex11-clz[data-v-1cf27b2a] {
+  padding-top: 0.3125rem;
+  padding-left: 0.875rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text14-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.text15-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.text16-clz[data-v-1cf27b2a] {
+  background-color: #db5f54;
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(12.5% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.1875rem !important;
+  padding-bottom: 0.25rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  text-align: center;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text17-clz[data-v-1cf27b2a] {
+  margin-left: 0.3125rem;
+  padding-top: 0.3125rem;
+  color: #db5f54;
+  text-decoration: underline;
+  padding-left: 0;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 1.0625rem !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex14-clz[data-v-1cf27b2a] {
+  padding-top: 0.3125rem;
+  padding-left: 0.875rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text18-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.text19-clz[data-v-1cf27b2a] {
+  margin-left: 0;
+  width: calc(100% - 0 - 0) !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+}
+.container25518[data-v-1cf27b2a] {
+  padding-left: 0px;
+  padding-right: 0px;
+}
